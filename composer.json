@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "qgeng/deployment",
+    "description": "deployment for api",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
